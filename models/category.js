@@ -15,7 +15,7 @@ Category.init(
         
     },
     category_name:{
-        type:String,
+        type:DataTypes.STRING,
         allowNull:false
     },
     
